@@ -34,8 +34,8 @@
 					<nav id="nav" float="right">
 						<ul>
 							<li>Our goal is to help other college students financially!!</li>
-							<li><a href="/login/login/logout">logout</a></li>
-							<li><a href="/board//board/list">Lists of Boards</a></li>
+							<li><a href="/board/login/logout">logout</a></li>
+							<li><a href="/board/board/list">Lists of Boards</a></li>
 							
 						</ul>
 					</nav>

@@ -113,7 +113,7 @@
 									<p>삼첩분식을 시키기 위해 드는 배달비를 나누어 내면 경제적이다. </p>
 								</li>
 							</ul>
-						</section>
+						</section>r
 					</div>
 					<div class="6u">
 						<section>

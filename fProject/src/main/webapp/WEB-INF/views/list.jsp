@@ -75,7 +75,7 @@
 						<div id="content" class="12u skel-cell-important">
 							<section>
 								<h1>게시판</h1>
-<p>안녕하세요~ <a href="/board//board/list">Go to main page</a> </p>
+<p>안녕하세요~ <a href="/board//board/main">Go to main page</a> </p>
 
 <table id="list" width="90%">
 <tr>
